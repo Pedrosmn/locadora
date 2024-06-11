@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Catalogo {
+class Catalogo {
     private ArrayList<Filme> listaGeral;
     private ArrayList<Filme> listaAtual;
 

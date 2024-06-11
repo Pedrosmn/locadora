@@ -1,2 +1,2 @@
-public class Estoque {
+class Estoque {
 }

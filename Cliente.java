@@ -1,4 +1,4 @@
 import java.util.ArrayList;
 
-public class Cliente extends Usuario {
+class Cliente extends Usuario {
 }

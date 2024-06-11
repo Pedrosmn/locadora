@@ -1,2 +1,2 @@
-public abstract class Usuario {
+class Usuario {
 }
